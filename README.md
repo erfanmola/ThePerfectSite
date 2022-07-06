@@ -1,5 +1,5 @@
 <div style="text-align: center;padding: 0;margin: 0;">
-    <img src="https://theperfectsite.ir/ThePerfectSite.png" alt="بهترین سایت دنیا !" style="max-width: 100%;">
+    <img src="./assets/ThePerfectSite.png" alt="بهترین سایت دنیا !" style="max-width: 100%;">
 </div>
 
 <h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ بهترین سایت دنیا ! 😕</h1>
